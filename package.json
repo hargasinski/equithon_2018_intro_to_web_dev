@@ -2,6 +2,7 @@
   "name": "equithon_2018_intro_to_web_dev",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "dependencies": {
     "antd": "^3.5.0",
