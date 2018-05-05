@@ -1,0 +1,17 @@
+p {
+    color: red;
+}
+
+ul {
+  display: flex;
+  flex-flow: row nowrap;
+  list-style: none;
+}
+
+li {
+  width: 100px;
+}
+
+li:hover {
+  background: #777;
+}
